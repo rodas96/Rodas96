@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Morais Da Silva
 <h3 align="center">A Software engineering student at <a href="https://www.42lisboa.com/">42Lisbon</a></h3>
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/rmorais?UM6P=off" alt="rmorais's 42 stats" /></a>
-<img align="right" src="https://media0.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.mp4?cid=790b761144865bf4357f38f6c01f0f118dd5cc2a95544a02&amp;rid=giphy.mp4&amp;ct=g"
-     
+<img align="right" /html/body/div[4]/div[2]/div/div[5]/div/div[2]/div[1]/div[1]/div/div/div[2]/div[1]/div/a/div/video
 - I’m currently learning **C**
 
 - How to reach me **rodrigomiguelmorais@gmail.com**
