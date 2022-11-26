@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Morais Da Silva
 <h3 align="center">A Software engineering student at <a href="https://www.42lisboa.com/">42Lisbon</a></h3>
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/rmorais?UM6P=off" alt="rmorais's 42 stats" /></a>
-<img align="right" <video style="width: 500px; height: 500px; left: 0px; top: 0px;" alt="Coding The Matrix GIF" src="https://media0.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.mp4?cid=790b761144865bf4357f38f6c01f0f118dd5cc2a95544a02&amp;rid=giphy.mp4&amp;ct=g" 
+<img align="right"   <img src="https://media2.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif?cid=ecf05e47ee19rvicjhx8srjuwpr425x4iqa7tpc539tke0vd&amp;rid=giphy.gif&amp;ct=g" alt="Hacking Security Breach GIF by Matthew Butler" style="width: 500px; height: 375px; left: 0px; top: 0px; opacity: 1;">
+   
 - How to reach me **rodrigomiguelmorais@gmail.com**
 
 - Find me at **42 Lisbon or in the water*
