@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Morais Da Silva
 <h3 align="center">A Software engineering student at <a href="https://www.42lisboa.com/">42Lisbon</a></h3>
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/rmorais?UM6P=off" alt="rmorais's 42 stats" /></a>
-<img align="right" src="https://hackaday.com/wp-content/uploads/2020/07/spinning-donut-featured.gif" width="550" />
-
+<img align="right" src="https://media1.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif?cid=ecf05e47eajqdkhs8hm7vbcvauxi77tpx9dggrbt0731iim9&amp;rid=giphy.gif&amp;ct=g" alt="Needcoffee Coding GIF by Bosch Rexroth" style="width: 500px; height: 347.917px; left: 0px; top: 0px; opacity: 1;"
 
 - I’m currently learning **C**
 
