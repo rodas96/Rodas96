@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bekchanboy Usmanov
+<h1 align="center">Hi 👋, I'm Rodrigo Morais Da Silva
 <h3 align="center">A Software engineering student at <a href="https://www.42lisboa.com/">42Lisbon</a></h3>
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/rmorais?UM6P=off" alt="rmorais's 42 stats" /></a>
 <img align="right" src="https://hackaday.com/wp-content/uploads/2020/07/spinning-donut-featured.gif" width="550" />
