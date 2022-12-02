@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Morais Da Silva
 <h3 align="center">A Software engineering student at <a href="https://www.42lisboa.com/">42Lisbon</a></h3>
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://i.seadn.io/gae/p9jPZKQ04Vm86g9p4nzJKgi9Ap2T7s07quXvV2W4IDf7S0ckTH8l2-FuH_43it1YhPeCvK_di70XSlsVTul5LsIOuuHrPykhgZKE?auto=format&amp;w=1920" width="984" height="984">
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://i.seadn.io/gae/p9jPZKQ04Vm86g9p4nzJKgi9Ap2T7s07quXvV2W4IDf7S0ckTH8l2-FuH_43it1YhPeCvK_di70XSlsVTul5LsIOuuHrPykhgZKE?auto=format&amp;w=1920" width="500" height="500">
    
 - How to reach me **rodrigomiguelmorais@gmail.com**
 
