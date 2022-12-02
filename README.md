@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Morais</h1>
 <h3 align="center">Software engineer student at 42 Lisbon</h3>
 
-![](https://giphy.com/gifs/3d-physics-math-4TbivGhf5P7xpufbHW/fullscreen)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodas96&label=Profile%20views&color=0e75b6&style=flat" alt="rodas96" /> </p>
 
 - 🌱 I’m currently learning **Python, C and C++**
+- [Uploading gif.html…]()
+
 
 - 📫 How to reach me **rodrigomiguelmorais@gmail.com**
 
