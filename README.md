@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Morais</h1>
 <h3 align="center">Software engineer student at 42 Lisbon</h3>
+<img align="https://imgs.search.brave.com/pmT6YuEGIRKNU-ZApB-370X1eA5qP6mT9v-eVT4Dwe8/rs:fit:250:250:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2Q3LzI1/LzRlL2Q3MjU0ZTQx/Njc4NmY4M2IyZDAz/NDM0OTgzNTk2Yzdk/LmdpZg.gif>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodas96&label=Profile%20views&color=0e75b6&style=flat" alt="rodas96" /> </p>
-<img align="https://imgs.search.brave.com/pmT6YuEGIRKNU-ZApB-370X1eA5qP6mT9v-eVT4Dwe8/rs:fit:250:250:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2Q3LzI1/LzRlL2Q3MjU0ZTQx/Njc4NmY4M2IyZDAz/NDM0OTgzNTk2Yzdk/LmdpZg.gif>
 
 - 🌱 I’m currently learning **Python, C and C++**
 
