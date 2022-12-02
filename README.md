@@ -2,6 +2,7 @@
 <h3 align="center">Software engineer student at 42 Lisbon</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodas96&label=Profile%20views&color=0e75b6&style=flat" alt="rodas96" /> </p>
+<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/NjIkWoRY8IFiNeM8kFfaetQkr3IhoyYNZhva-dZXrls/rs:fit:1200:720:1/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/bWF4LzI4NzgvMCpN/NTBJUEtaejU4Rnl5/MTc4LmdpZg.gif>
 
 - 🌱 I’m currently learning **Python, C and C++**
 
