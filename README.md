@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Morais</h1>
 <h3 align="center">Software engineer student at 42 Lisbon</h3>
-<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/NjIkWoRY8IFiNeM8kFfaetQkr3IhoyYNZhva-dZXrls/rs:fit:1200:720:1/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/bWF4LzI4NzgvMCpN/NTBJUEtaejU4Rnl5/MTc4LmdpZg.gif">
+
+![](https://giphy.com/gifs/3d-physics-math-4TbivGhf5P7xpufbHW/fullscreen)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodas96&label=Profile%20views&color=0e75b6&style=flat" alt="rodas96" /> </p>
 
