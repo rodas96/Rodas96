@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Morais Da Silva
 <h3 align="center">A Software engineering student at <a href="https://www.42lisboa.com/">42Lisbon</a></h3>
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/rmorais?UM6P=off" alt="rmorais's 42 stats" /></a>
-<div class="tenor-gif-embed" data-postid="15241589" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/code-matrix-gif-15241589">Code Matrix GIF</a>from <a href="https://tenor.com/search/code-gifs">Code GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://media.tenor.com/Zco-fadJri4AAAAd/code-matrix.gif">
    
 - How to reach me **rodrigomiguelmorais@gmail.com**
 
