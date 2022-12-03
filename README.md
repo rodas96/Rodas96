@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Morais</h1>
 <h3 align="center">Software engineer student at 42 Lisbon</h3>
 
-<img src="https://media.tenor.com/TRbvvfLtgXAAAAAC/internet-web.gif" width="200" height="200" />
+<img src="https://media.tenor.com/TRbvvfLtgXAAAAAC/internet-web.gif" width="500" height="200" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodas96&label=Profile%20views&color=0e75b6&style=flat" alt="rodas96" /> </p>
 
 - 🌱 I’m currently learning **Python, C and C++**
