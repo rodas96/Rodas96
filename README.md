@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Morais</h1>
 <h3 align="center">Software engineer student at 42 Lisbon</h3>
-
+![fds](https://user-images.githubusercontent.com/108375741/205411594-7e463074-d690-40db-bb93-9da7aec093e6.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodas96&label=Profile%20views&color=0e75b6&style=flat" alt="rodas96" /> </p>
 
