@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Morais</h1>
 <h3 align="center">Software engineer student at 42 Lisbon</h3>
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/U4FkC2VqpeNRHjTDQ5" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/technology-earth-communications-U4FkC2VqpeNRHjTDQ5">via GIPHY</a></p>
+![giphy](https://user-images.githubusercontent.com/108375741/205411040-7654dbb5-b83b-44e1-b08a-603eb36893d0.gif)
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodas96&label=Profile%20views&color=0e75b6&style=flat" alt="rodas96" /> </p>
 
