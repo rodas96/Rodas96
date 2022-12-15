@@ -4,7 +4,7 @@
 <img src="https://media.tenor.com/TRbvvfLtgXAAAAAC/internet-web.gif" width="900" height="300" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodas96&label=Profile%20views&color=0e75b6&style=flat" alt="rodas96" /> </p>
 
-- 🌱 I’m currently learning **Python, C and C++**
+- 🌱 I’m currently learning **Python, C/C++, C# and SQL**
 
 - 📫 How to reach me **rodrigomiguelmorais@gmail.com**
 
